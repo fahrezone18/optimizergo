@@ -1,6 +1,4 @@
 [
-{
-"name":"COD Mobile",
-"package":"com.garena.game.codm"
-}
+{ "name":"Call Of Duty®: Mobile", "package":"com.garena.game.codm", "image":"fahrezone18.github.io/optimizergo/codm.webp" },
+{ "name":"Mobile Legends: Bang Bang", "package":"com.mobile.legends", "image":"fahrezone18.github.io/optimizergo/mlbb.webp" }
 ]
