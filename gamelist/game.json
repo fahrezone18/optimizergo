@@ -1,6 +1,6 @@
 [
 { "name":"PUBG®: Mobile", "package":"com.tencent.ig", "image":"https://fahrezone18.github.io/optimizergo/gamelist/pubg.webp" },
-{ "name":"Call Of Duty®: Mobile", "package":"com.garena.game.codm", "image":"https://fahrezone18.github.io/optimizergo/gamelist/codm.webp" },
+{ "name":"Call of Duty®: Mobile", "package":"com.garena.game.codm", "image":"https://fahrezone18.github.io/optimizergo/gamelist/codm.webp" },
 { "name":"Mobile Legends: Bang Bang", "package":"com.mobile.legends", "image":"https://fahrezone18.github.io/optimizergo/gamelist/mlbb.webp" },
 { "name":"Minecraft", "package":"com.mojang.minecraftpe", "image":"https://fahrezone18.github.io/optimizergo/gamelist/mcpe.webp" }
 ]
