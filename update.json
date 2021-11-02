@@ -1,9 +1,9 @@
 
 {
-"newVersion":"2.10",
-"newVcode":"210",
-"dialogSubtitle":"UPDATE AVAILABLE V2.10",
+"newVersion":"2.12",
+"newVcode":"212",
+"dialogSubtitle":"UPDATE AVAILABLE V2.12",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
-"forceUpdate":"false",
+"forceUpdate":"true",
 "forceClose":"false"
 }
