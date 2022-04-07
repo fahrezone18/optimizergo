@@ -1,8 +1,8 @@
 {
-"newVersion":"2.20",
-"newVcode":"220",
+"newVersion":"2.21",
+"newVcode":"221",
 "dialogTitle":"INFO",
-"dialogSubtitle":"Hi, how are you?\n\nOptimizer Go has an update that you might like, but since it was only updated yesterday, you can update it later, thanks :)\n\n~ FahrezONE",
+"dialogSubtitle":"Hi, how are you?\n\nOptimizer Go has an update that you might like, you can update it now, thanks :)\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButton":"Update?",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
