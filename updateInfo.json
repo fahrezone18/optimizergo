@@ -1,10 +1,10 @@
 {
-"newVersion":"2.25",
-"newVcode":"225",
-"dialogTitle":"INFO",
-"dialogSubtitle":"Hi! Are you still experiencing \"High Ping?\" :(, Exactly! I have updated \"Net Optimizer 2.0\", You can try it now, thanks :D\n\n~ FahrezONE",
+"newVersion":"2.26",
+"newVcode":"227",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Hi! Are you still experiencing \"Overheating\" :(, Exactly! I have updated \"Cooling System\", You can try it now, thanks :D\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Update",
-"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
+"textButton":"Watch",
+"upLink":"https://youtu.be/NvaUthCusO4",
 "forceUpdate":"false"
 }
