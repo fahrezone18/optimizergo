@@ -1,10 +1,10 @@
 {
-"newVersion":"2.26",
-"newVcode":"228",
-"dialogTitle":"YOUTUBE",
-"dialogSubtitle":"Hello Everyone!\nI just want to let you know that I have a YouTube channel, there are various kinds of interesting info about app updates, and you can also give criticism and suggestions directly, Subscribe now for free!\n\n~ FahrezONE",
+"newVersion":"2.28",
+"newVcode":"229",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Hello Everyone!\nUpdate Available, more info you can watch the video, thanks :)\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Subscribe",
-"upLink":"https://youtube.com/channel/UCZ_szqNV2fEhzOxoXGzhquw",
+"textButton":"Watch",
+"upLink":"https://youtu.be/JofJ57LafGo",
 "forceUpdate":"false"
 }
