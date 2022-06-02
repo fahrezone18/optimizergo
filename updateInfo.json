@@ -1,10 +1,10 @@
 {
-"newVersion":"2.28",
-"newVcode":"229",
+"newVersion":"2.30",
+"newVcode":"230",
 "dialogTitle":"UPDATE",
-"dialogSubtitle":"Hello Everyone!\nUpdate Available, more info you can watch the video, thanks :)\n\n~ FahrezONE",
+"dialogSubtitle":"Hello Everyone!\nI have a new feature for you, which is \"Freemium\", Yes! this feature is for you Optimzer Go users who want to try the Pro features for free :)\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Watch",
-"upLink":"https://youtu.be/JofJ57LafGo",
+"textButton":"Update",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
 "forceUpdate":"false"
 }
