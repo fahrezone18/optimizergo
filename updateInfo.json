@@ -1,10 +1,10 @@
 {
-"newVersion":"2.37",
-"newVcode":"239",
+"newVersion":"2.40",
+"newVcode":"240",
 "dialogTitle":"UPDATE",
-"dialogSubtitle":"Hello Everyone!\nThe new feature of \"Optimize All\" is available, you can try it now :D\n\n~ FahrezONE",
+"dialogSubtitle":"Hello Everyone!\nUpdate Available, Update now on PlayStore :)\n\nAplikasi ini dibuat oleh Orang Indonesia, jika kamu suka menggunakan "Optimizer Go" tolong gunakan versi original dari PlayStore, bantu Saya menyempurnakan Aplikasi ini dengan memberikan Ulasan dan Bintang, terima kasih banyak :)\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Watch",
-"upLink":"https://youtu.be/QLvzcT6qisY",
-"forceUpdate":"false"
+"textButton":"Update",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
+"forceUpdate":"true"
 }
