@@ -1,10 +1,10 @@
 {
-"newVersion":"2.44",
-"newVcode":"244",
+"newVersion":"2.43",
+"newVcode":"243",
 "dialogTitle":"UPDATE",
 "dialogSubtitle":"Hello Everyone!\nUpdate Available, Update now on PlayStore :)\n\nAplikasi ini dibuat oleh Orang Indonesia, jika kamu suka menggunakan \"Optimizer Go\" tolong gunakan versi original dari PlayStore, bantu Saya menyempurnakan Aplikasi ini dengan memberikan Ulasan dan Bintang, terima kasih banyak :)\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
-"forceUpdate":"true"
+"forceUpdate":"false"
 }
