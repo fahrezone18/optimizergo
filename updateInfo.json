@@ -2,9 +2,9 @@
 "newVersion":"2.42",
 "newVcode":"9999",
 "dialogTitle":"UPDATE",
-"dialogSubtitle":"Hello Everyone!\nUpdate Available, Update now on PlayStore :)\n\nUdah cobain Optimize All \"High Mode\" belum?, cobain sekarang pake fitur \"Freemium\" diversi terbaru :D\n\n~ FahrezONE",
+"dialogSubtitle":"Hello Everyone!\nUpdate Available, Update now on PlayStore :)\n\nUdah cobain Optimize All \"High Mode\" belum?, cobain sekarang pake fitur \"Freemium\" diversi terbaru, btw pake versi mod gak bikin kamu keren kok :D\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
-"forceUpdate":"false"
+"forceUpdate":"true"
 }
