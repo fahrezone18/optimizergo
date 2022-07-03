@@ -1,10 +1,10 @@
 {
-"newVersion":"2.43",
-"newVcode":"243",
-"dialogTitle":"UPDATE",
-"dialogSubtitle":"CEMAS KAU DEKK BEKBEKBEKBEKBEKBEK, ANJAS KELASS SLEBEW!!\n\n~ FahrezONE",
+"newVersion":"2.44",
+"newVcode":"244",
+"dialogTitle":"RATING",
+"dialogSubtitle":"Hey!\nDo you like this app? if yes please give me Rating and Review on PlayStore, Thanks :)\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Cemas?",
+"textButton":"Rate Me :)",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
 "forceUpdate":"false"
 }
