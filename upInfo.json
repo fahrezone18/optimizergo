@@ -1,10 +1,10 @@
 {
-"newVersion":"2.44",
-"newVcode":"244",
-"dialogTitle":"RATING",
-"dialogSubtitle":"Hey!\nDo you like this app? if yes please give me Rating and Review on PlayStore, Thanks :)\n\n~ FahrezONE",
+"newVersion":"2.46",
+"newVcode":"246",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Hey!\nI've fixed some problems in the previous version, hope you like it, Thanks :)\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Rate Me :)",
+"textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
-"forceUpdate":"false"
+"forceUpdate":"true"
 }
