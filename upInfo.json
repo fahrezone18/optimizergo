@@ -1,10 +1,10 @@
 {
 "newVersion":"2.46",
-"newVcode":"246",
-"dialogTitle":"UPDATE",
-"dialogSubtitle":"Hey!\nI've fixed some problems in the previous version, hope you like it, Thanks :)\n\n~ FahrezONE",
+"newVcode":"247",
+"dialogTitle":"INFO",
+"dialogSubtitle":"Hey!\nFor "Optimizer Go Mod" users, are you happy? unfortunately the developer doesn't :(\n\n Thanks to all Optimizer Go users ~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Update",
+"textButton":"Use Ori",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
 "forceUpdate":"true"
 }
