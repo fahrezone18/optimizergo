@@ -1,10 +1,10 @@
 {
 "newVersion":"2.47",
-"newVcode":"247",
-"dialogTitle":"INFO",
-"dialogSubtitle":"Hey!\nFor \"Optimizer Go Mod\" users, are you happy? unfortunately the developer doesn't :(\n\n Thanks to all Optimizer Go users ~ FahrezONE",
+"newVcode":"248",
+"dialogTitle":"GAME VORTEX",
+"dialogSubtitle":"Hey!\nI have new Game Booster \"Game Vortex\", you can try it now :D\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Use Original",
+"textButton":"Try",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
 "forceUpdate":"false"
 }
