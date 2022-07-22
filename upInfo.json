@@ -1,10 +1,10 @@
 {
 "newVersion":"2.47",
-"newVcode":"248",
-"dialogTitle":"GAME VORTEX",
-"dialogSubtitle":"Hey!\nI have new Game Booster \"Game Vortex\", you can try it now :D\n\n~ FahrezONE",
+"newVcode":"247",
+"dialogTitle":"Update",
+"dialogSubtitle":"Hey!\nI have new Update, you can try it now :D\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButton":"Try",
-"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
 "forceUpdate":"false"
 }
