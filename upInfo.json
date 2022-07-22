@@ -1,10 +1,10 @@
 {
 "newVersion":"2.48",
 "newVcode":"248",
-"dialogTitle":"Update",
-"dialogSubtitle":"Hey!\nI have new Update, you can try it now :D\n\n~ FahrezONE",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Hey!\nI have new Update, you can try it now :D\nIf it's already updated, just ignore it\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"Try",
+"textButton":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
 "forceUpdate":"false"
 }
