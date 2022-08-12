@@ -3,7 +3,7 @@
 "newVcode":"250",
 "dialogTitle":"INFO",
 "dialogSubtitle":"Hey!\n I got several problems, one of which was that this application was detected by a virus \"which shared data\" actually it was an error in the incomplete \"data security\" form, and it will be fixed soon, sorry for the inconvenience :(\n\n~ FahrezONE",
-"visibleButton":"false",
+"visibleButton":"true",
 "textButton":"oke",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
 "forceUpdate":"false"
