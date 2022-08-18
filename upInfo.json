@@ -1,10 +1,10 @@
 {
-"newVersion":"2.49",
-"newVcode":"250",
+"newVersion":"2.51",
+"newVcode":"251",
 "dialogTitle":"INFO",
-"dialogSubtitle":"Hey!\n I got several problems, one of which was that this application was detected by a virus \"which shared data\" actually it was an error in the incomplete \"data security\" form, and it will be fixed soon, sorry for the inconvenience :(\n\n~ FahrezONE",
+"dialogSubtitle":"Hey!\nFor Optimizer Go Users affected by \"Virus Issue\", you can temporarily use \"Game Vortex\", Thanks :')\n\n~ FahrezONE",
 "visibleButton":"true",
-"textButton":"oke",
-"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.go",
+"textButton":"Try",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
 "forceUpdate":"false"
 }
