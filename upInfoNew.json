@@ -1,0 +1,13 @@
+{
+"newVersion":"2.61",
+"newVcode":"261",
+"dialogTitle":"NOTES",
+"dialogSecTitle":"Dev",
+"dialogSubtitle":"Please clear data if \"Black Screen\" occurs (V2.42), usually happens on Android 12😅\n\n~ FahrezONE",
+"visibleButton":"true",
+"textButtonFalse":"Ok",
+"textButtonTrue":"Update",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.one.optimizer",
+"linkVerify":"com.android.vending",
+"forceUpdate":"false"
+}
