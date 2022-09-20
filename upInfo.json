@@ -1,10 +1,10 @@
 {
-"newVersion":"2.50",
-"newVcode":"250",
-"dialogTitle":"INFO",
-"dialogSubtitle":"Hey!\nFor Optimizer Go Users affected by \"Virus Issue\", you can temporarily use \"Game Vortex\", Thanks :')\n\n~ FahrezONE",
+"newVersion":"2.60",
+"newVcode":"260",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Hey!\nBIG UPDATE IS READY😁\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButton":"Try",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.gamizer",
-"forceUpdate":"false"
+"forceUpdate":"true"
 }
