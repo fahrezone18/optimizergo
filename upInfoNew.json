@@ -1,9 +1,9 @@
 {
 "newVersion":"2.61",
 "newVcode":"261",
-"dialogTitle":"NOTES",
-"dialogSecTitle":"Dev",
-"dialogSubtitle":"Please clear data if \"Black Screen\" occurs (V2.60), usually happens on Android 12😅\n\n~ FahrezONE",
+"dialogTitle":"INFO",
+"dialogSecTitle":"V2.60",
+"dialogSubtitle":"Update Changes V2.60\n- Now Performance info is Static (old version is relative)\n- \"Performance\" feature is now more specific (old version only changes to 100%)\n- and \"Pro Version\" only for 1 Application (old version can be for all applications)\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButtonFalse":"Ok",
 "textButtonTrue":"Update",
