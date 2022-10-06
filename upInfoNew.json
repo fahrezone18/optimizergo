@@ -1,13 +1,13 @@
 {
 "newVersion":"2.61",
 "newVcode":"261",
-"dialogTitle":"INFO",
-"dialogSecTitle":"V2.60",
-"dialogSubtitle":"Update Changes V2.60\n- Now Performance info is Static (old version is relative)\n- \"Performance\" feature is now more specific (old version only changes to 100%)\n- and \"Pro Version\" only for 1 Application (old version can be for all applications)\n\n~ FahrezONE",
+"dialogTitle":"UPDATE",
+"dialogSecTitle":"V2.61",
+"dialogSubtitle":"Update available!\Update this time is not much but it improves the system a bit :)\n\n~ FahrezONE",
 "visibleButton":"true",
 "textButtonFalse":"Ok",
 "textButtonTrue":"Update",
 "upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.one.optimizer",
 "linkVerify":"com.android.vending",
-"forceUpdate":"false"
+"forceUpdate":"true"
 }
